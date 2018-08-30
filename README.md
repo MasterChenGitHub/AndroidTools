@@ -10,3 +10,4 @@ https://github.com/google/android-classyshark
 3.APK patch size estimator-old and new versio apks patch size estimator
 https://github.com/Master-Chen/apk-patch-size-estimator
 
+4.dagger2 translate
